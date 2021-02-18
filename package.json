@@ -142,6 +142,7 @@
     "weex-styler": "^0.3.0",
     "yorkie": "^2.0.0"
     
+    
   },
   "config": {
     "commitizen": {
